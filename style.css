@@ -1,0 +1,167 @@
+.flexbox-container{
+    display:flex;
+    width:100%;
+    height:auto;
+       
+}
+.flexbox{
+    width:200px;
+    height:100px;
+    background: linear-gradient(purple, red);
+    margin:10px;
+    border: 3px black solid;
+    color:bisque
+}
+.box1{
+    background:green;
+}
+.box2{
+    background:red;
+}
+.box3{
+    background:pink;
+}
+
+.box4{
+    background:black;
+}
+.box5{
+    background:brown;
+}
+.box6{
+    background:hotpink;
+}
+.box7{
+    background:yellow;
+    
+}
+.box8{
+    background:blue;
+}
+.box9{
+    background:blueviolet;
+}
+.box10{
+    background:yellowgreen;
+}
+.box11{
+    background:rebeccapurple;
+}
+.box12{
+    background:orange;
+}
+
+.box13{
+    background:#75FF33;
+}
+.box14{
+    background: linear-gradient(red, yellow, blue);
+}
+.box15{
+    background: linear-gradient(#e66465, #9198e5);;
+}
+
+.box16{
+    background:orangered;
+}
+.box17{
+    background:slategray;
+}
+.box18{
+    background:sienna;
+}
+.box19{
+    background:khaki;
+}
+.box20{
+    background:darkblue;
+}
+.box21{
+    background:darkcyan;
+}
+.box22{
+    background:darkseagreen;
+}
+.box23{
+    background:fuchsia;
+}
+.box24{
+    background:lavenderblush;
+    color:black;
+}
+
+.box25{
+    background:#773344;
+}
+.box26{
+    background: linear-gradient(red, yellow, orange);
+}
+.box27{
+    background: linear-gradient(#e66465, #9198e5,black);;
+}
+
+.box28{
+    background:orangered;
+}
+.box29{
+    background:linear-gradient(0.25turn,pink, #ebf8e1, #f69d3c);;
+}
+.box30{
+    background:blueviolet;
+}
+.box31{
+    background:linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+}
+.box32{
+    background:linear-gradient(0.25turn, #3f87a6, #ebf8e1, black);
+    
+}
+.box33{
+    background:linear-gradient(0.25turn,yellow, #ebf8e1, #f69d3c);
+
+}
+.box34{
+    background:linear-gradient(white, yellow, orange);
+}
+.box35{
+    background:linear-gradient(red, black, orange);
+}
+.box36{
+    (0.25turn,pink, #ebf8e1, hotpink);
+}
+.box37{
+    background:linear-gradient(violet, yellow, white);
+}
+.box38{
+    background:linear-gradient(violet, red, white);
+}
+.box39{
+    background:linear-gradient(yellow, black, white);
+}
+.box40{
+    background:linear-gradient(salmon, black, white);
+}
+.box41{
+    background:linear-gradient(blue, black, white);
+}
+.box42{
+    background:linear-gradient(aqua, black, white);
+}
+.box43{
+    background:linear-gradient(green, black, white);
+}
+.box44{
+    background:linear-gradient(#75FF33, black, white);
+}
+.box45{
+    background:linear-gradient(#75FF33, blue, white);
+}
+.box46{
+    background:linear-gradient(#75FF33, yellow, white);
+}
+.box47{
+    background:linear-gradient(red, orangered, white);
+}
+.box48{
+    background:linear-gradient(black, orange, white);
+}
